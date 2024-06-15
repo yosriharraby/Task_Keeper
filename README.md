@@ -52,4 +52,4 @@ Contributions are welcome! If you'd like to contribute to Task Keeper, please fo
 
 ## Contact
 
-For any inquiries or support, please contact me at [loghmari.ala@tek-up.de](mailto:loghmari.ala@tek-up.de).
+For any inquiries or support, please contact me at [yosriharrabi92@gmail.com]
